@@ -1,0 +1,33 @@
+ /* *{
+
+
+} */
+
+body{
+    font-family:monospace;
+    font-size: 1.2rem;
+    margin: 0;
+    background-color: #F1FAFC;
+} 
+
+.landing{
+    background-color: #0171f9;
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+}
+
+.landing > .header > .menu > a{
+    padding: 0px 10px;
+    font-weight: 800;
+}
+
+.header > .logo{
+    width: 100px;
+}
+
